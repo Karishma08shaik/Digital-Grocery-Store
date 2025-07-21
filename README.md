@@ -1,6 +1,6 @@
-# 🛒 Digital Grocery Store App
+# 🛒 Digital Grocery Store Web App
 
-Welcome to the **Digital Grocery Store App** — a full-stack web application designed to simplify grocery shopping with a user-friendly interface, secure transactions, and real-time order tracking.
+Welcome to the **Digital Grocery Store Web App** — a full-stack web application designed to simplify grocery shopping with a user-friendly interface, secure transactions, and real-time order tracking.
 
 ## 🌟 Features
 
